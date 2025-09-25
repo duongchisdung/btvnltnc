@@ -1,0 +1,11 @@
+C:\Users\ADMINS\OneDrive\Desktop\bai2\bin\Debug\bai2.exe.config
+C:\Users\ADMINS\OneDrive\Desktop\bai2\bin\Debug\bai2.exe
+C:\Users\ADMINS\OneDrive\Desktop\bai2\bin\Debug\bai2.pdb
+C:\Users\ADMINS\OneDrive\Desktop\bai2\obj\Debug\bai2.csproj.AssemblyReference.cache
+C:\Users\ADMINS\OneDrive\Desktop\bai2\obj\Debug\bai2.Form1.resources
+C:\Users\ADMINS\OneDrive\Desktop\bai2\obj\Debug\bai2.Properties.Resources.resources
+C:\Users\ADMINS\OneDrive\Desktop\bai2\obj\Debug\bai2.csproj.GenerateResource.cache
+C:\Users\ADMINS\OneDrive\Desktop\bai2\obj\Debug\bai2.csproj.CoreCompileInputs.cache
+C:\Users\ADMINS\OneDrive\Desktop\bai2\obj\Debug\bai2.exe
+C:\Users\ADMINS\OneDrive\Desktop\bai2\obj\Debug\bai2.pdb
+C:\Users\ADMINS\OneDrive\Desktop\bai2\obj\Debug\bai2.exe.config

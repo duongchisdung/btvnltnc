@@ -1,0 +1,11 @@
+C:\Users\ADMINS\OneDrive\Desktop\bai4\bin\Debug\bai4.exe.config
+C:\Users\ADMINS\OneDrive\Desktop\bai4\bin\Debug\bai4.exe
+C:\Users\ADMINS\OneDrive\Desktop\bai4\bin\Debug\bai4.pdb
+C:\Users\ADMINS\OneDrive\Desktop\bai4\obj\Debug\bai4.csproj.AssemblyReference.cache
+C:\Users\ADMINS\OneDrive\Desktop\bai4\obj\Debug\bai4.Form1.resources
+C:\Users\ADMINS\OneDrive\Desktop\bai4\obj\Debug\bai4.Properties.Resources.resources
+C:\Users\ADMINS\OneDrive\Desktop\bai4\obj\Debug\bai4.csproj.GenerateResource.cache
+C:\Users\ADMINS\OneDrive\Desktop\bai4\obj\Debug\bai4.csproj.CoreCompileInputs.cache
+C:\Users\ADMINS\OneDrive\Desktop\bai4\obj\Debug\bai4.exe
+C:\Users\ADMINS\OneDrive\Desktop\bai4\obj\Debug\bai4.pdb
+C:\Users\ADMINS\OneDrive\Desktop\bai4\obj\Debug\bai4.exe.config
